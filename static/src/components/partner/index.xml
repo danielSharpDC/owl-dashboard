@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<templates xml:space="preserve">
+    <t t-name="owl.PartnerPage" owl="1">
+        <div class="container-fluid">
+            <h1>This is Partner List page</h1>
+            <br/>
+            <a class="btn-primary" >Go back</a>
+        </div>
+    </t>
+</templates>
